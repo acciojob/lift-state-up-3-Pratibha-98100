@@ -31,7 +31,7 @@ function Model() {
         <button onClick={optn2}>Option 2</button>
       </div>
 
-      <p>Selected Option : {select}</p>
+      <p>Selected Option: {select}</p>
     </div>
   )
 }
